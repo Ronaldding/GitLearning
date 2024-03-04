@@ -4,9 +4,12 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        ChipiChipi
-      </header>
+      <div className="App-profile">
+        <div className="App-topbar">
+
+          I am TopBar
+        </div>
+      </div>
     </div>
   );
 }
